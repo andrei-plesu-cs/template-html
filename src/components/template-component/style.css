@@ -1,0 +1,49 @@
+* {
+    font-family: 'Kanit', sans-serif;
+}
+
+.main_wrapper {
+    width: 100%;
+}
+
+.main_logo {
+    font-size: 4rem;
+}
+
+.invoice-header {
+    padding: 1rem;
+}
+
+.data_header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.template_my_col {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.invoice_header {
+    display: flex;
+    align-items: flex-end;
+}
+
+.invoice_header_title {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.invoice_header_subheader {
+    margin-left: 15px;
+    margin-bottom: 0.3rem;
+}
+
+.legal_reference_data {
+    color: gray;
+    font-style: italic;
+    font-size: 1rem;
+    margin-top: -5px;
+}
